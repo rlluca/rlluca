@@ -2,6 +2,12 @@
 I have a Bachelor's degree in Computer and Automation Engineering from the Polytechnic University of Ancona (Italy).
 
 -----------------------------------------------------------------------------------------------------------------
+## 🚀 About me
+🎓 I am currently pursuing a Master's degree in Computer and Automation Engineering.
+
+💼 Internship Experience: I completed a 3-month intership at [Alcman](https://www.alcman.com/) as a Junior Software Engineer, where I contribuited to development a CRM software and a custom Android application using Android Studio in Java to segment video files and reliably transmit them to the server via WebSockets.
+
+------------------------------------------------------------------------------------------------------------------
 ## 🔧 Skill
 - Programming Languages: C++, Java, Python, PHP, HTML, CSS, JavaScript, TypeScript,
 - Frameworks & Libraries: Laravel, Flutter, Express.js, Node.js, PySpark, Pandas, NumPy, Scikit-learn
@@ -10,7 +16,15 @@ I have a Bachelor's degree in Computer and Automation Engineering from the Polyt
 
 --------------------------------------------------------------------------------------------------------------------
 ## 📫 How to reach me
-- Email: lucarenzi301@gmail.com
+
+Feel free to connect with me through any of the following:
+
+-  📧 Email: lucarenzi301@gmail.com
+-  💼 Linkedln: [Luca Renzi](linkedin.com/in/luca-renzi-019a152b6)
+-   GitHub: [rlluca](https://github.com/rlluca)
+
+----------------------------------------------------------------------------------------------------------------------
+## 🚀 Check out my pinned projects below ↓
 <!--
 **rlluca/rlluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
