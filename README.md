@@ -20,7 +20,7 @@ I have a Bachelor's degree in Computer and Automation Engineering from the Polyt
 Feel free to connect with me through any of the following:
 
 -  📧 Email: lucarenzi301@gmail.com
--  💼 Linkedln: [Luca Renzi](linkedin.com/in/luca-renzi-019a152b6)
+-  💼 Linkedln: [Luca Renzi](www.linkedin.com/in/luca-renzi-019a152b6)
 -   GitHub: [rlluca](https://github.com/rlluca)
 
 ----------------------------------------------------------------------------------------------------------------------
