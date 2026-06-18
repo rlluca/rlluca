@@ -3,6 +3,9 @@ I have a Bachelor's degree in Computer and Automation Engineering from the Polyt
 
 -----------------------------------------------------------------------------------------------------------------
 ## 🚀 About me
+
+📄 [Curriculum Vitae](./cv_ita.pdf)
+
 🎓 I am currently pursuing a Master's degree in Computer and Automation Engineering at the Polytechnic University of Ancona (Italy), where I explore topics including: Machine Learning, Computer Vision, Deep Learning, Big Data and Backend Development.
 
 💼 Internship Experience: I completed a 3-month intership at [Alcman](https://www.alcman.com/) as a Junior Software Engineer, where I contribuited to development a CRM software and a custom Android application using Android Studio in Java to segment video files and reliably transmit them to the server via WebSockets.
